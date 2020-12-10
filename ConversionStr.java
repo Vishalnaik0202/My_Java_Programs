@@ -3,8 +3,7 @@ import java.io.*;
 import java.io.ByteArrayInputStream;
 import java.util.Scanner;
 
-
-public class Assignment2 {
+public class ConversionStr{
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
@@ -29,3 +28,4 @@ public class Assignment2 {
         System.out.println(bos.toString());
     }
 }
+
